@@ -5,6 +5,7 @@ We trained and evaluated regression models to predict house prices
 
 ## Articles
 #### [How to make learning materials easier to navigate](https://github.com/maximilian-ho/articles/blob/main/how_to_make_learning_materials_easier_to_navigate.md)
+#### [How to reduce our consumption of entertainment](https://github.com/maximilian-ho/articles/blob/main/how_to_reduce_our_consumption_of_entertainment.md)
 #### [Change what it means to win](https://github.com/maximilian-ho/articles/blob/main/change_what_it_means_to_win.md)
 
 
