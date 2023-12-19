@@ -1,5 +1,5 @@
 ## Articles  
-#### [How to focus on solving social issues](https://github.com/maximilian-ho/articles/blob/main/how_to_focus_on_solving_social_issues.md)  
+#### [How to reduce our consumption of entertainment](https://github.com/maximilian-ho/articles/blob/main/how_to_reduce_our_consumption_of_entertainment.md)
 #### [How to make learning materials easier to navigate](https://github.com/maximilian-ho/articles/blob/main/how_to_make_learning_materials_easier_to_navigate.md)  
 
 ## Projects
