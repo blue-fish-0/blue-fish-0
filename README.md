@@ -1,5 +1,5 @@
 ## Articles    
-Entertainment is our greatest enemy  
+Entertainment is our greatest enemy.  
 #### [Reading books to learn how to empower others](https://github.com/maximilian-ho/articles/blob/main/reading_books_to_learn_how_to_empower_others.md)  
 #### [Organizing online articles using Microsoft Word](https://github.com/maximilian-ho/articles/blob/main/organizing_online_articles_using_microsoft_word.md) 
 #### [Annotating pdf textbooks using Foxit pdf editor](https://github.com/maximilian-ho/articles/blob/main/annotating_pdf_textbooks_using_foxit_pdf_editor.md)  
