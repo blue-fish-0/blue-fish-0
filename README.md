@@ -1,5 +1,4 @@
 ## Our daily routine to solve social issues  
-#### [Resting using mindful breathing](https://github.com/maximilian-ho/articles/blob/main/resting_using_mindful_breathing.md)   
 #### [Reading epub books using Moon+ Reader](https://github.com/maximilian-ho/articles/blob/main/reading_epub_books_using_moon_plus_reader.md)    
 #### [Annotating pdf textbooks using Foxit pdf Editor](https://github.com/maximilian-ho/articles/blob/main/annotating_pdf_textbooks_using_foxit_pdf_editor.md)  
 
