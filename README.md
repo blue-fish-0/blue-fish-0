@@ -1,5 +1,5 @@
 ## Our daily routine to solve social issues 
-#### [Focusing on listening](https://github.com/maximilian-ho/articles/blob/main/focusing_on_listening.md)  
+#### [Learning how to listen](https://github.com/maximilian-ho/articles/blob/main/learning_how_to_listen.md)  
 #### [Doing nothing](https://github.com/maximilian-ho/articles/blob/main/doing_nothing.md)  
 #### [Reading epub books using Moon+ Reader](https://github.com/maximilian-ho/articles/blob/main/reading_epub_books_using_moon_plus_reader.md) 
 #### [Annotating pdf textbooks using Foxit PDF Editor](https://github.com/maximilian-ho/articles/blob/main/annotating_pdf_textbooks_using_foxit_pdf_editor.md) 
