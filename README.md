@@ -1,4 +1,4 @@
-#### [How we teach ourselves](https://maximilian-ho.github.io/how-we-teach-ourselves/)
+#### [How we teach ourselves](https://maximilian-ho.github.io/how-we-teach-ourselves/)    
 A website to share our procedures for teaching ourselves.
 
 ## Projects
