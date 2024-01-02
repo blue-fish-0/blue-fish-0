@@ -4,5 +4,5 @@ We trained and evaluated regression models to predict house prices using a Jupyt
 **Demonstrated Skills:** data processing pipelines · regularization · cross-validation  
 
 #### [How we teach ourselves](https://maximilian-ho.github.io/how-we-teach-ourselves/)
-We created a website to share our procedures for teaching ourselves.   
+We created a website to explain our procedures for teaching ourselves.   
 **Demonstrated Skills:** technical writing 
